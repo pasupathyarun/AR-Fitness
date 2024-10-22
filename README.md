@@ -1,11 +1,6 @@
 
 # AR Fitness(Augmented Reality Fitness )
 
-## Authors
-
-- [@atharvamulgund](https://www.github.com/atharvamulgund)
-- [@angadsinghobbi](https://github.com/angadsinghob)
-- [@tejasphanse](https://github.com/TejasPhanse12)
 
 Content of Read Md file:
 
